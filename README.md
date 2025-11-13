@@ -103,7 +103,7 @@ Perfect for:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/find-env-vars/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mehedihsiam/find-env-vars/issues).
 
 ## Author
 
@@ -127,4 +127,5 @@ If you find this tool helpful, please consider:
 ---
 
 Made with ❤️ by [Mehedi Siam](https://mehedisiam.com/)
+
 # find-env-vars
